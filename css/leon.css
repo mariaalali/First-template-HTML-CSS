@@ -209,6 +209,7 @@ font-size: 17px;
 @media (max-width:767px){
     .services .services-content .srv{
         flex-direction: column;
+        align-items: center;
         text-align: center;
     }
 }
